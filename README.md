@@ -1,5 +1,4 @@
 
-![Copy of Black and Grey Spinning Cool and Funky Computer Logo](https://github.com/Apetun/Apetun/assets/114131523/2e1a060a-123c-41bc-984a-5561f91e5881)
 <h1 align="center">Hey 👋, I'm Jeffin Joffy</h1>
 
 
@@ -9,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apetun&theme=dark_lover&no-bg=true&title=Stars,Commit,PullRequest,Repositories,Issues,Followers" alt="apetun" /></a> </p>
 
 
+![Copy of Black and Grey Spinning Cool and Funky Computer Logo](https://github.com/Apetun/Apetun/assets/114131523/2e1a060a-123c-41bc-984a-5561f91e5881)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
