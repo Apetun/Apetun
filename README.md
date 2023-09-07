@@ -1,14 +1,12 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hey 👋, I'm Jeffin Joffy</h1>
-<h3 align="center">Aspiring AI/ML engineer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apetun&label=Profile%20views&color=0e75b6&style=flat" alt="apetun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apetun" alt="apetun" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML and Data Science**
 
-- 📫 How to reach me **jeffinjoffyp123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
