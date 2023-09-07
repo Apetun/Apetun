@@ -1,4 +1,5 @@
-![google-deepmind-dxtkv8qLaY0-unsplash](https://github.com/Apetun/Apetun/assets/114131523/cf98e832-e367-4cd5-9b7b-55d2ed6642e8)
+
+![Copy of Black and Grey Spinning Cool and Funky Computer Logo](https://github.com/Apetun/Apetun/assets/114131523/2e1a060a-123c-41bc-984a-5561f91e5881)
 <h1 align="center">Hey 👋, I'm Jeffin Joffy</h1>
 
 
