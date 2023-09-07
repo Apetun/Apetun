@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apetun&label=Profile%20views&color=0e75b6&style=flat" alt="apetun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apetun&theme=dark_lover&no-bg=true&title=Stars,Commit,PullRequest,Repositories,Issues,Friends" alt="apetun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apetun&theme=dark_lover&no-bg=true&title=Stars,Commit,PullRequest,Repositories,Issues,Followers" alt="apetun" /></a> </p>
 
 
 
