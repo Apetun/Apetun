@@ -11,7 +11,7 @@
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apetun&&theme=dracula" alt="apetun" /></p>
 
-<img src="https://github.com/Apetun/Apetun/assets/114131523/e122dfb7-0c51-4f52-83f6-c83887883a4a" style="display: block; margin: 0 auto;">
+<p align="center"><img src="https://github.com/Apetun/Apetun/assets/114131523/e122dfb7-0c51-4f52-83f6-c83887883a4a" style="display: block; margin: 0 auto;" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
