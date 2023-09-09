@@ -11,7 +11,7 @@
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apetun&&theme=dracula" alt="apetun" /></p>
 
-<p align='center'>![Copy of Black and Grey Spinning Cool and Funky Computer Logo](https://github.com/Apetun/Apetun/assets/114131523/e122dfb7-0c51-4f52-83f6-c83887883a4a)</p>
+![Copy of Black and Grey Spinning Cool and Funky Computer Logo](https://github.com/Apetun/Apetun/assets/114131523/e122dfb7-0c51-4f52-83f6-c83887883a4a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
