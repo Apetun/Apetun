@@ -5,7 +5,7 @@
 
 
 <p align="center"><img src="https://github.com/Apetun/Apetun/assets/114131523/e122dfb7-0c51-4f52-83f6-c83887883a4a" style="display: block; margin: 0 auto;" /> </p>
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apetun&theme=dracula&no-bg=true&title=Stars,Commit,PullRequest,Repositories,Issues" alt="apetun" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apetun&theme=dracula&no-bg=true&no-frame=true&title=Stars,Commit,PullRequest,Repositories,Followers,Experience,Issues&rows=-1" alt="apetun" /></a> </p>
 
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apetun&&theme=dracula" alt="apetun" /></p>
