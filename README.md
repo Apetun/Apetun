@@ -8,7 +8,9 @@
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apetun&theme=dracula&no-bg=true&no-frame=true&title=MultiLanguage,Stars,Commit,PullRequest,Repositories,Followers,Experience,Issues&rows=-1" alt="apetun" /></a> </p>
 
 
+
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apetun&&theme=dracula" alt="apetun" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-Tiwari&&theme=dracula" alt="apetun" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
