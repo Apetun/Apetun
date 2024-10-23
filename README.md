@@ -10,7 +10,7 @@
 
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apetun&&theme=dracula" alt="apetun" /></p>
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-Tiwari&&theme=dracula" alt="apetun" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetun&&theme=dracula" alt="apetun" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
